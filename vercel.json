@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/dental-lahore.html" },
+    { "source": "/index.html", "destination": "/dental-lahore.html" }
+  ]
+}
